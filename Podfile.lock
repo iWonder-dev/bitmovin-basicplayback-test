@@ -1,0 +1,16 @@
+PODS:
+  - BitmovinPlayer (2.38.0)
+
+DEPENDENCIES:
+  - BitmovinPlayer (= 2.38.0)
+
+SPEC REPOS:
+  https://github.com/bitmovin/cocoapod-specs.git:
+    - BitmovinPlayer
+
+SPEC CHECKSUMS:
+  BitmovinPlayer: 2b51e6dfcdb3e74ceba890b24843adce9e1729ab
+
+PODFILE CHECKSUM: 3740831c20a6488ce901477af6c4154953963e09
+
+COCOAPODS: 1.8.4
